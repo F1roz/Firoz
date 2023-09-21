@@ -9,7 +9,7 @@ body {
     word-spacing: normal;
     margin: auto;
     margin-top: 5px;
-    color: #333f48;
+    color: #2a343c;
   }
   
   a.menuitem, a.menuitem:link, a.menuitem:visited {
@@ -22,7 +22,7 @@ body {
   }
   
   a.menuitem:hover, a.menuitem:active {
-    color: #a44b02;
+    color: #912504;
   }
   
   #name {
@@ -33,7 +33,7 @@ body {
   }
   
   #menubar {
-    border-top: 5px solid #BF5700;
+    border-top: 5px solid #912504;
     overflow: hidden;
     margin: 0px 0px 20px 0px;
     display: inline-block;
@@ -69,7 +69,7 @@ body {
   }
   
   .sectionhead {
-    border-bottom: solid 2px #BF5700;
+    border-bottom: solid 2px #912504;
   }
   
   .sectiontitle {
@@ -95,7 +95,7 @@ body {
     height: 200px;
   }
   .download-button {
-    background-color: #BF5700;
+    background-color: #912504;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -107,6 +107,8 @@ body {
     margin: 4px 2px;
     cursor: pointer;
 }
+
+
 
   footer {
     background-color: #f1f1f1;
